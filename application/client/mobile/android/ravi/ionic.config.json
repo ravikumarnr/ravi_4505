@@ -1,0 +1,7 @@
+{
+  "name": "ravi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
